@@ -92,8 +92,8 @@
 				</executions>
 				<configuration>
 				<!--  these 2 configuration may not be required in Jenkins setup -->
-					<fork>true</fork>
-                <executable>C:\Eee\jdk-11\bin\javac.exe</executable>					
+<!-- 					<fork>true</fork>
+                <executable>C:\Eee\jdk-11\bin\javac.exe</executable>					 -->
 					<compilerArgument>-Xlint:all</compilerArgument>
 					<compilerArgs>
 						<arg>-Xlint:all</arg>

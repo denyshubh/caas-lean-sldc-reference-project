@@ -1,0 +1,6 @@
+projectKey=com.example:java-maven-junit-helloworld-new
+serverUrl=http://localhost:9070
+serverVersion=6.7.0.33306
+dashboardUrl=http://localhost:9070/dashboard/index/com.example:java-maven-junit-helloworld-new
+ceTaskId=AXOeTfzwSJ1EDHv_wuUI
+ceTaskUrl=http://localhost:9070/api/ce/task?id=AXOeTfzwSJ1EDHv_wuUI

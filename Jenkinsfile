@@ -9,7 +9,7 @@ pipeline {
       agent any
       steps {
         withSonarQubeEnv('SonarQube') {
-          sh 'mvn clean package -X sonar:sonar'
+          sh '/opt/maven/bin/mvn clean package -X sonar:sonar'
         }
       }
     }

@@ -1,4 +1,4 @@
-[![Build Status](http://52.249.196.235:8080/job/demo-freestyle/badge/icon)](http://52.249.196.235:8080/job/demo-freestyle/)
+[![Build Status](http://52.249.196.235:8080/buildStatus/icon?job=demo-freestyle)](http://52.249.196.235:8080/job/demo-freestyle/)
 
 caas-lean-sldc-reference-project
 ===========================
